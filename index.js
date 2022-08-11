@@ -4,4 +4,4 @@ let myOBJ = {
 	msg2: 'Electron is Green!',
 };
 
-console.log(`Hello from ${myOBJ.msg1msg}`);
+console.log(`Hello from ${myOBJ.msg1}`);
